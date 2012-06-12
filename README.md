@@ -1,4 +1,4 @@
-omnibus
+Omnibus
 =======
 
-iOS app for handling tickets by text services for different cities
+iOS-app för att köpa sms-biljetter i olika städer.
